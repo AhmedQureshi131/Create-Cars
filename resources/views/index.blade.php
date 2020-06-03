@@ -16,7 +16,8 @@
                <div class="row">
                    <div class="col-md-12">
                        <h1 class="display-2 text-white">Cars</h1>
-                       <p class="lead text-white">A Web Based Application That Creates Cars</p>
+                       <p class="lead text-white
+">A Web Based Application That Creates Cars</p>
                    </div>
                    <div class="col-md-12">
                        <img src="img/charge-mustang-01.jpg" alt="Mustang">
