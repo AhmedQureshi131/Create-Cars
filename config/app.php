@@ -119,9 +119,9 @@ return [
     |
     */
 
-    'key' => env('APP_KEY','SomeRandomString'),
+    'key' => env('APP_KEY'),
 
-    'cipher' => 'AES-128-CBC',
+    'cipher' => 'AES-256-CBC',
 
     /*
     |--------------------------------------------------------------------------
